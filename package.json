@@ -7,8 +7,8 @@
     "lodash.get": "^4.4.2"
   },
   "devDependencies": {
-    "ava": "0.18.2",
-    "mongoose": "4.9.1"
+    "ava": "0.19.1",
+    "mongoose": "4.9.8"
   },
   "scripts": {
     "test": "ava -v test/*.test.js",
