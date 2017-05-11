@@ -1,5 +1,7 @@
 # Mongoose multi connect
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kozzztya/mongoose-multi-connect.svg)](https://greenkeeper.io/)
+
 Establish multi connections with using DB name postfix. 
 
 # Single instance
